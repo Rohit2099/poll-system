@@ -1,0 +1,14 @@
+html,
+body {
+    height: 100%;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#container {
+    height: 100%;
+}
+
+#root {
+    height: 100%;
+}
